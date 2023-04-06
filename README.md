@@ -4,6 +4,6 @@ this projects stated converting pixel to point cloud for 3d object re-creation
 
 # output demo of project
 
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/16ECH_DcLh8vVhvOkVqW1btmbQWqqXzuq/view?usp=share_link" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/104138656/230287369-c68b2942-ee2f-4cf2-b48f-98aa9c3a8e9d.mp4
+
